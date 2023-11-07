@@ -4,12 +4,12 @@
 
 class Api {
 
-public $dominio = "REU";
+public $dominio = "";
 
-public $usuario = "31650257";
+public $usuario = "";
 
-public $senha = "31650257";
-public $cnpj_edi = "31650257000112";
+public $senha = "";
+public $cnpj_edi = "";
 
 public function getToken()
 {
